@@ -19,7 +19,7 @@ const WhoWeAre = () => {
                 kind="primary"
                 onClick={() => {
                   window.open(
-                    "https://github.com/OpenTempus-Platform/OpenTempus/blob/main/GET_INVOLVED.md",
+                    "https://github.com/krook/OpenTempus/blob/main/GET_INVOLVED.md",
                     "_blank",
                     "noopener"
                   );
@@ -43,7 +43,7 @@ const WhoWeAre = () => {
                 kind="tertiary"
                 onClick={() => {
                   window.open(
-                    "https://github.com/OpenTempus-Platform",
+                    "https://github.com/krook/OpenTempus/",
                     "_blank",
                     "noopener"
                   );

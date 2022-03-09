@@ -1,10 +1,10 @@
 import React, { useContext } from "react";
-import board from "../content/assets/OpenTempus-arch.jpg";
+import board from "../content/assets/pyrrha-arch.jpg";
 import AppContext from "../context/app";
-import dash from "../content/assets/OpenTempus-dashboardSS.png";
-import device from "../content/assets/OpenTempus-device-opt.png";
-import deviceFull from "../content/assets/OpenTempus-device.png";
-import test from "../content/assets/OpenTempus-testing.png";
+import dash from "../content/assets/Pyrrha-dashboardSS.png";
+import device from "../content/assets/pyrrha-device-opt.png";
+import deviceFull from "../content/assets/pyrrha-device.png";
+import test from "../content/assets/pyrrha-testing.png";
 import { Grid, Row, Column } from "carbon-components-react";
 import salome from "../content/assets/Salome-Valero.jpeg";
 import marco from "../content/assets/Marco-Emilio-Rodriguez-Serrano.jpeg";
@@ -74,7 +74,7 @@ const SensorInfo = () => {
             <h3>{t("technologyDescription2")}</h3>
             <Column lg={{ span: 6, offset: 0 }}>
               <a href={deviceFull}>
-                <img className="device" src={device} alt="OpenTempus device" />
+                <img className="device" src={device} alt="pyrrha device" />
               </a>
             </Column>
             <h3>{t("technologyDescription3")}</h3>
@@ -94,7 +94,7 @@ const SensorInfo = () => {
               <img
                 className="testing"
                 src={test}
-                alt="OpenTempus testing pic"
+                alt="pyrrha testing pic"
               ></img>
             </Column>
             <div className="tests">

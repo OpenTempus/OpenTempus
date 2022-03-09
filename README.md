@@ -1,6 +1,6 @@
 # OpenTempus website - opentempus.com
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23prometeo-OpenTempus&color=blue)](https://callforcode.org/slack)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23opentempus&color=blue)](https://callforcode.org/slack)
 
 This is the opentempus.com website code. It's based on the Carbon Design System and React.
 

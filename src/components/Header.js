@@ -31,7 +31,7 @@ const _Header = () => {
         <HeaderGlobalAction
           aria-label="GitHub"
           target="_blank"
-          href="https://github.com/OpenTempus-Platform/"
+          href="https://github.com/krook/OpenTempus/"
           tooltipAlignment="end"
         >
           <LogoGitHub20 />

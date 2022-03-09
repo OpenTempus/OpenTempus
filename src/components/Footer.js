@@ -17,7 +17,7 @@ const Footer = (props) => {
         </a>
         {t("footer2")}
         <a
-          href="https://OpenTempus-project.org/"
+          href="https://opentempus.com/"
           rel="noopener noreferrer"
           target="_blank"
         >
