@@ -1,4 +1,4 @@
-# OpenTempus website - opentempus.com
+# OpenTempus
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23opentempus&color=blue)](https://callforcode.org/slack)
 
@@ -19,13 +19,13 @@ Welcome to OpenTempus, the open source technology used by Agrolly.
 
 ## OpenTempus and Agrolly
 
-The core long-term forecasting capabilities of the Agrolly solution have been open sourced as OpenTempus, which is a complete solution on its own. You can learn more about Agrolly and 
+The core long-term forecasting capabilities of the Agrolly solution have been open sourced as OpenTempus, which is a complete solution on its own. You can learn more about [Agrolly its history on the Call for Code website](https://developer.ibm.com/callforcode/solutions/agrolly/).
 
 ## The story
 
-Watch this video to learn about the Pyrrha solution based on Prometeo's original Call for Code 2019 winning application:
+Watch this video to learn about the OpenTempus solution based on Agrolly's original Call for Code 2020 winning application:
 
-[![Story-Video](https://user-images.githubusercontent.com/84807697/120705678-21671e80-c486-11eb-8e6c-888dc98fab23.png)](https://www.youtube.com/watch?v=vOgCOoy_Bx0)
+[![Story-Video](agrollyteam.jpg)](https://www.youtube.com/watch?v=j1QdDdDWDpU)
 
 ## Technical Steering Committee
 
