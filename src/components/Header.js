@@ -18,15 +18,6 @@ const _Header = () => {
       <HeaderName href="/" prefix="">
         {t("title")}
       </HeaderName>
-
-      {/*
-      <HeaderNavigation aria-label="Launch Dashboard">
-        <HeaderMenuItem target="_blank" href="">
-          Launch Dashboard
-        </HeaderMenuItem>
-      </HeaderNavigation>
-      */}
-
       <HeaderGlobalBar>
         <HeaderGlobalAction
           aria-label="GitHub"

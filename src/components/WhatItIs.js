@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Grid, Row, Column, Button, ButtonSet } from "carbon-components-react";
 import AppContext from "../context/app";
 
-const WhoWeAre = () => {
+const WhatItIs = () => {
   const { t } = useContext(AppContext);
 
   return (
@@ -25,7 +25,7 @@ const WhoWeAre = () => {
                   );
                 }}
               >
-                {t("OpenTempusButtonGetInvolved")}
+                {t("openTempusButtonGetInvolved")}
               </Button>
               <Button
                 kind="tertiary"
@@ -37,7 +37,7 @@ const WhoWeAre = () => {
                   );
                 }}
               >
-                {t("OpenTempusButtonJoinSlack")}
+                {t("openTempusButtonJoinSlack")}
               </Button>
               <Button
                 kind="tertiary"
@@ -49,7 +49,7 @@ const WhoWeAre = () => {
                   );
                 }}
               >
-                {t("OpenTempusButtonBrowseCode")}
+                {t("openTempusButtonBrowseCode")}
               </Button>
             </ButtonSet>
           </Column>
@@ -59,4 +59,4 @@ const WhoWeAre = () => {
   );
 };
 
-export default WhoWeAre;
+export default WhatItIs;

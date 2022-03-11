@@ -1,4 +1,4 @@
-import Landing from "./pages/Landing";
+import Home from "./pages/Home";
 
 import AppContext, { useAppContext } from "./context/app";
 import "./styles/App.scss";
@@ -6,7 +6,7 @@ import "./styles/App.scss";
 function App() {
   return (
     <AppContext.Provider value={useAppContext()}>
-      <Landing />
+      <Home />
     </AppContext.Provider>
   );
 }

@@ -1,11 +1,11 @@
 {
   "title": "OpenTempus",
-  "bannerMission": "Hardware and software that monitors toxin exposure and provides alerts to firefighting teams when they battle wildfires",
+  "subTitle": "Provide long-term (annual) weather forecast for temperature and rainfall in order to help smallholder farmers make better decisions about what to plant and when.",
   "informationTitle": "What is OpenTempus?",
-  "informationFirstPara": "OpenTempus is an Internet-of-Things (IoT) and data science solution that measures environmental toxins and provides individualized recommendations based on real-time data and long-term exposure. It is the open source core of the Prometeo Platform that won the Call for Code Global Challenge in 2019.",
-  "OpenTempusButtonGetInvolved": "Get involved",
-  "OpenTempusButtonJoinSlack": "Join us on Slack",
-  "OpenTempusButtonBrowseCode": "Browse code",
+  "informationFirstPara": "OpenTempus provides long-term (annual) weather forecast for temperature and rainfall in order to help smallholder farmers make better decisions about what to plant and when. It is the open source core of the Agrolly that won the Call for Code Global Challenge in 2020.",
+  "openTempusButtonGetInvolved": "Get involved",
+  "openTempusButtonJoinSlack": "Join us on Slack",
+  "openTempusButtonBrowseCode": "Browse code",
 
   "architectureTitle": "OpenTempus in a nutshell",
   "architectureDescription": "A two-way system that collects toxin readings, analyzes them, and sends actionable data back to the team.",
@@ -20,21 +20,6 @@
   "architectureDescription9": "9. The dashboard connects to the WebSocket Server to show live data and alerts the user if the levels go above certain pre-determined thresholds.",
   "architectureDescription10": "10. The command center can view the dashboard using the web browser on a laptop or tablet.",
   "architectureDescription11": "11. The mobile application regularly requests status from the Rules-Decision service and emits the result via device LED and Samsung phone/watch vibrations.",
-
-  "technologyTitle": "OpenTempus technology",
-  "technologyDescription2": "OpenTempus device: Collects key data: carbon monoxide, nitrogen dioxide, temperature, and humidity readings",
-  "technologyDescription3": "Cloud dashboard: Shows real-time alerts and averages over time (10min, 30min, 1hr, 4hr, 8hr)",
-
-  "actionTitle": "OpenTempus in action",
-  "actionDescription1": "OpenTempus v1 - Prometeo v3 field test with GRAF firefighters in Catalonia, 1Q 2021, building upon earlier tests of v2 in 1Q 2020.",
-  "actionDescription2": "Test goals:",
-  "actionDescription3": "A. Collect data from firefighters during controlled burn",
-  "actionDescription4": "B. Evaluate latest case design, size, weight, and ergonomics",
-  "actionDescription5": "C. Assess feedback and suggestions from firefighters",
-  "actionDescription6": "Results:",
-  "actionDescription7": "A. Stored temperature, humidity, carbon monoxide, and nitrogen dioxide readings from 10 firefighters over 2 days",
-  "actionDescription8": "B. Studied case ergonomics, durability, reliability, and robustness metrics",
-  "actionDescription9": "C. Captured design feedback and additional non-functional ideas for the device",
 
   "teamTitle": "Team",
   "teamDescription": "Meet the original Prometeo founders who brought this project to life.",

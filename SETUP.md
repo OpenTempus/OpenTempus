@@ -37,6 +37,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+## Deploying
+
+The site will be built and deployed to GitHub pages when new changes are merged into the `main` branch. These changes then become visible on [opentempus.com](https://opentempus.com/).
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting OpenTempus pull requests.

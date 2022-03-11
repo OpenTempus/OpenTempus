@@ -10,12 +10,12 @@ const Banner = () => {
       <div className="bx--grid">
         <div className="bx--row">
           <div className="bx--col col__banner__title">
-            <h1 className="BannerTitle">OpenTempus</h1>
-            <h2 className="BannerSubtitle_Responsive">{t("bannerMission")}</h2>
+            <h1 className="BannerTitle">{t("title")}</h1>
+            <h2 className="BannerSubtitle_Responsive">{t("subTitle")}</h2>
           </div>
           <div className="bx--col col__banner__subtitle">
             {" "}
-            <h2 className="BannerSubtitle">{t("bannerMission")}</h2>
+            <h2 className="BannerSubtitle">{t("subTitle")}</h2>
           </div>
         </div>
       </div>
