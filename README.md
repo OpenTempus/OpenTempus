@@ -33,6 +33,10 @@ Watch this video to learn about the OpenTempus solution based on Agrolly's origi
 
 [![Story-Video](agrollyteam.jpg)](https://www.youtube.com/watch?v=j1QdDdDWDpU)
 
+## opentempus.com
+
+This repository also contains the Carbon React website for [opentempus.com](https://opentempus.com/). You can learn about how to deploy it locally in the [setup instructions](SETUP.md).
+
 ## Technical Steering Committee
 
 Per the [The OpenTempus Technical Charter](OpenTempus-Technical-Charter-March-2022.pdf)
