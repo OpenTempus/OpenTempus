@@ -1,8 +1,5 @@
 import React, { useContext } from "react";
 import board from "../content/assets/pyrrha-arch.jpg";
-import dash from "../content/assets/pyrrha-dashboard.png";
-import device from "../content/assets/pyrrha-device-opt.png";
-import deviceFull from "../content/assets/pyrrha-device.png";
 import AppContext from "../context/app";
 import { Grid, Row, Column } from "carbon-components-react";
 
