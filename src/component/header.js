@@ -19,10 +19,11 @@ const Header = () => {
           </div>
           <div className={style.second_header_text}>
             <p>
-              OpenTempus is an open source solution using machine learnig model
-              to prodict weather information <br /> and suporting farmer to
-              fight climate change. This code can be used to to run climate
-              prodiction <br /> according to your longitude and latitude
+              OpenTempus is an open source solution that uses machine learning
+              models to predict weather for agricultural insights <br /> to
+              support farmers adapting to climate change. This code can be used
+              to to run climate prediction <br /> according to their longitude
+              and latitude.
             </p>
           </div>
           <div className={style.second_header_buttons}>
@@ -35,7 +36,7 @@ const Header = () => {
                   <img src={githublogo} alt="" />
                 </div>
                 <div>
-                  <p>OpenTempus code</p>
+                  <p>OpenTempus</p>
                 </div>
               </a>
               <a
