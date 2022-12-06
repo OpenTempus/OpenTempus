@@ -37,7 +37,7 @@ Watch this video to learn about the OpenTempus solution based on Agrolly's origi
 
 ## opentempus.com
 
-This repository also contains the Carbon React website for [opentempus.com](https://opentempus.github.io/OpenTempus/). You can learn about how to deploy it locally in the [setup instructions](SETUP.md).
+This repository also contains the Carbon React website for [opentempus.com](https://www.opentempus.com/). You can learn about how to deploy it locally in the [setup instructions](SETUP.md).
 
 ## OpenTempus DataSience
 

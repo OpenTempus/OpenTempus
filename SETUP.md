@@ -39,7 +39,7 @@ Your app is ready to be deployed!
 
 ## Deploying
 
-The site will be built and deployed to GitHub pages when new changes are merged into the `main` branch. These changes then become visible on [opentempus.com](https://opentempus.com/).
+The site will be built and deployed to GitHub pages when new changes are merged into the `main` branch. These changes then become visible on [opentempus.com](https://www.opentempus.com/).
 
 ## Contributing
 
