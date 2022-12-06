@@ -18,7 +18,7 @@ const Openlink = () => {
             onClick={(e) => {
               e.preventDefault();
               window.location.href =
-                "https://callforcode.slack.com/archives/C01J10FEC95";
+                "https://callforcode.org/slack";
             }}
           >
             Go to Slack
@@ -35,7 +35,7 @@ const Openlink = () => {
             onClick={(e) => {
               e.preventDefault();
               window.location.href =
-                "https://github.com/Agrolly-LLC/Agrolly-Data-Science";
+                "https://github.com/OpenTempus";
             }}
           >
             Go to GitHub

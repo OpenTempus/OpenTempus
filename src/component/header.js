@@ -29,7 +29,7 @@ const Header = () => {
           <div className={style.second_header_buttons}>
             <div className={style.second_header_all_buttons}>
               <a
-                href="https://github.com/Agrolly-LLC/Agrolly-Data-Science"
+                href="https://github.com/OpenTempus"
                 className={style.first_button}
               >
                 <div>
