@@ -12,10 +12,10 @@ function Footer() {
           <img src={logo} alt="" />
         </div>
         <div className={style.footer_images}>
-          <a href="https://github.com/Agrolly-LLC/Agrolly-Data-Science">
+          <a href="https://github.com/OpenTempus">
             <img src={githubLogo} alt="" />
           </a>
-          <a href="https://callforcode.slack.com/archives/C01J10FEC95">
+          <a href="https://callforcode.org/slack">
             <img src={slackLogo} alt="" />
           </a>
         </div>
