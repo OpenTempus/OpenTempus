@@ -25,6 +25,6 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: build
-          fqdn: opentempus.com
+          fqdn: www.opentempus.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
