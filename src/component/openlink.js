@@ -11,14 +11,13 @@ const Openlink = () => {
           <img src={slack} alt="" />
           <h1>Slack</h1>
           <p>
-            Engage ongoing product discussion through Slack with others from
-            around the world.
+            Engage the community through Slack with others from around the
+            world.
           </p>
           <button
             onClick={(e) => {
               e.preventDefault();
-              window.location.href =
-                "https://callforcode.org/slack";
+              window.location.href = "https://callforcode.org/slack";
             }}
           >
             Go to Slack
@@ -28,14 +27,13 @@ const Openlink = () => {
           <img src={github} alt="" />
           <h1>GitHub</h1>
           <p>
-            GitHub source code for the machine learning model predicting
-            weather information for farmer use.
+            GitHub source code for the machine learning model that predicts
+            weather information for farmers.
           </p>
           <button
             onClick={(e) => {
               e.preventDefault();
-              window.location.href =
-                "https://github.com/OpenTempus";
+              window.location.href = "https://github.com/OpenTempus";
             }}
           >
             Go to GitHub

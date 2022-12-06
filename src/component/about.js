@@ -9,16 +9,16 @@ const About = () => {
           <div className={style.third_section_text}>
             <h2>What is OpenTempus?</h2>
             <p className={style.third_section_first_text}>
-              Climate change is not a new, and farmers are the ones who are
+              Climate change is not a new and farmers are the ones who are
               impacted the most. OpenTempus uses machine learning, gathering
               more than five years of data information to predict and provide
               information to farmers.{" "}
             </p>
             <p className={style.third_section_second_text}>
               {" "}
-              by usage the information not only gives farmers straightforward
-              weather data to prepare but also includes the crop requirements
-              for farmers to follow{" "}
+              Using these insights not only gives farmers straightforward
+              predictive weather data but also includes crop information for
+              farmers to follow in order to maximize yields.{" "}
             </p>
           </div>
           <div className={style.third_section_link}>

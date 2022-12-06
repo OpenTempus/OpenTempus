@@ -20,10 +20,14 @@ const Header = () => {
           <div className={style.second_header_text}>
             <p>
               OpenTempus is an open source solution that uses machine learning
-              models to predict weather for agricultural insights <br /> to
-              support farmers adapting to climate change. This code can be used
-              to to run climate prediction <br /> according to their longitude
-              and latitude.
+              models to predict weather for agricultural insights to support
+              farmers adapting to climate change. This code can be used to to
+              run climate prediction according to their longitude and latitude.
+              <br />
+              <br />
+              OpenTempus is an open source project created from innovation
+              created by Agrolly LLC in partnership with Call for Code, IBM, and
+              The Linux Foundation.
             </p>
           </div>
           <div className={style.second_header_buttons}>
