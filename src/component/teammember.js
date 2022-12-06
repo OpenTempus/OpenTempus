@@ -5,7 +5,7 @@ const Teammember = (props) => {
   return (
     <div className={style.team_image_content}>
       <img src={props.image} alt="" />
-      <a href={props.linkedin}></a>
+      <a href={props.linkedin}>LinkedIn</a>
       <p className={style.first_name}>{props.name}</p>
       <p>Co-Founder</p>
     </div>

@@ -3,7 +3,6 @@ import About from './component/about';
 import Header from './component/header';
 import ImageContent from './component/imageContent';
 import Openlink from './component/openlink';
-import Partner from './component/partner';
 import Team from './component/team';
 import Footer from './component/footer'
 

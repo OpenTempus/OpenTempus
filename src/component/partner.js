@@ -8,7 +8,6 @@ const Partner = () => {
             <div className={style.seventh_section}>
                 <div className={style.seventh_section_content}>
                     <h1>Who are involved</h1>
-                    <h2></h2>
                 </div>
                 <div className={style.seventh_section_logo}>
                     <img src={ibmlogo} alt="" />
