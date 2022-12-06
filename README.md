@@ -4,11 +4,11 @@
 
 Welcome to OpenTempus, the open source technology used by Agrolly.
 
-[Agrolly LLC](https://agrolly-web.mybluemix.net/) created its solution as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/agrolly/) that won the top prize in the Global Challenge. In 2022, **_OpenTempus_** was contributed to the Linux Foundation as the open source core of Agrolly in order share the technology and provide a way for others to improve it for the benefit of all.
+[Agrolly LLC](https://agrolly-web.mybluemix.net/) created its solution as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/agrolly/) that won the top prize in the 2020 Global Challenge. In 2022, **_OpenTempus_** was contributed to the Linux Foundation as the open source core of Agrolly in order share the technology and provide a way for others to improve it for the benefit of all.
 
 The OpenTempus mission is to provide long-term (annual) weather forecast for temperature and rainfall in order to help smallholder farmers make better decisions about what to plant and when. Weather forecasts (temperature and rainfall) are the base input for many agriculture developments and are difficult to forecast reliably.
 
-The scope of the Project includes data science tools that can be used and improved to improve forecasts. This includes capabilities to: Increase scalability by getting historical data more efficient; Improve accuracy by analyzing different types of regression analysis;  and include other weather forecast parameters based on the community needs.
+The scope of the project includes data science tools that can be used and improved to improve forecasts. This includes capabilities to: Increase scalability by getting historical data more efficient; Improve accuracy by analyzing different types of regression analysis;  and include other weather forecast parameters based on the community needs.
 
 ## Get started
 
@@ -27,11 +27,11 @@ The core long-term forecasting capabilities of the Agrolly solution have been op
 
 ### The OpenTempus name
 
-The Name chosen for the open soruce solution is OpenTempus. The word "Open" comes from Open-source solutions and the word "Tempus" is a Latin word for Climate. Besides, “Open Tempus” means clear sky, with no extreme weather parameters, which for agriculture purposes is good. Agrolly wants to provide a clear vision of the forecasts upfront to fight climate change and improve productivity.
+The Name chosen for the open soruce solution is OpenTempus. The word "Open" comes from Open-source solutions and the word "Tempus" is a Latin word for Climate. Besides, "Open Tempus" therefore means clear sky, with no extreme weather parameters, which for agriculture purposes is good. Agrolly wants to provide a clear vision of the forecasts upfront to fight climate change and improve productivity.
 
 ## The story
 
-Watch this video to learn about the OpenTempus solution based on Agrolly's original Call for Code 2020 winning application:
+Watch this video to learn about the OpenTempus solution based on Agrolly's original Call for Code winning application:
 
 [![Story-Video](agrollyteam.jpg)](https://www.youtube.com/watch?v=j1QdDdDWDpU)
 

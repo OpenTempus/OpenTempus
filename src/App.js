@@ -14,7 +14,6 @@ function App() {
        <Header/>
        <About/>
        <Openlink/>
-       <Partner/>
        <ImageContent/>
        <Team/>
        <Footer/>
