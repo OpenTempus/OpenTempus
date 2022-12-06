@@ -15,8 +15,5 @@
     "main.350a301a.css.map": "/OpenTempus/static/css/main.350a301a.css.map",
     "main.18832728.js.map": "/OpenTempus/static/js/main.18832728.js.map"
   },
-  "entrypoints": [
-    "static/css/main.350a301a.css",
-    "static/js/main.18832728.js"
-  ]
+  "entrypoints": ["static/css/main.350a301a.css", "static/js/main.18832728.js"]
 }
