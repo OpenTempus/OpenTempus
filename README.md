@@ -49,7 +49,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Technical Steering Committee
 
-Per the The OpenTempus Technical Charter
+Per the [OpenTempus Technical Charter](OpenTempus%20Technical%20Charter.pdf)
 
 | Name                     | Organization |
 | ------------------------ | ------------ |
